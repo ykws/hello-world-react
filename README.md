@@ -11,9 +11,12 @@ https://reactjs.org/
 
 ## Run the App
 ```
-$ npm install
+$ yarn install
 $ npm start
 ```
 
+## React for Beginners
+:floppy_disk: [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
 ## More informations
-* [Docs](https://reactjs.org/docs/getting-started.html)
+:book: [Docs](https://reactjs.org/docs/getting-started.html)
