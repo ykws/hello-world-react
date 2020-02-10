@@ -8,6 +8,7 @@ https://reactjs.org/
 
 ## Requirements
 * [Node](https://github.com/ykws/hello-node)
+* [Yarn](https://classic.yarnpkg.com/en/)
 
 ## Run the App
 ```
